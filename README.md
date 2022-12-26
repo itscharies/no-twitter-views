@@ -1,2 +1,2 @@
-# no-twitter-views
-Hides the 'views' button feature on twitter
+# Hide Twitter views
+Simple Chromium extension that hides the 'views' button feature on twitter
